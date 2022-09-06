@@ -1,2 +1,2 @@
 #!/bin/bash
-:e C-d
+pwd
